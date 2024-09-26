@@ -1,0 +1,1 @@
+# Gere-planos-de-a-o-a-partir-de-an-lises-com-SQL
